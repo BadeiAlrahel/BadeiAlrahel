@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Badei</h1>
-<h3 align="center">Master’s Student in Data Science at ULiege, I like</h3>
+<h3 align="center">Master’s Student in Data Science at ULiege, passionated about Computer Science.</h3>
 
 - 🎮 I like **playing video games and watching anime**
 
@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/badei_alrahel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="badei_alrahel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/badei-alrahel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badei-alrahel" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/alrahel_badei/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alrahel_badei/" height="30" width="40" /></a>
+<a href="https://instagram.com/alrahel_badei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alrahel_badei" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

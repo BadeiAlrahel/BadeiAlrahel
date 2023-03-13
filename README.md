@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Badei</h1>
-<h3 align="center">Master’s Student in Data Science at ULiege, passionat about Computer Science.</h3>
+<h3 align="center">Master’s Student in Data Science at ULiege, passionate about Computer Science.</h3>
 
 - 🎮 I like **playing video games and watching anime**
 

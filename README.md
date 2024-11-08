@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **badee.alrahel13@gmail.com**
 
-- ⚡ Fun fact **🗼The Eiffel Tower can be 15 cm taller during the summer**
+- ⚡ Fun fact **Did you know that the first computer bug occurred... because of a real insect?🐞💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
